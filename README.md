@@ -45,7 +45,7 @@ sobre os sítios em questão. Contribuir é um processo relativamente simples:
             <...>
 ################################################################################
 - <outro distrito>:
-    <conselho ou localidade>:
+    - <conselho ou localidade>:
         <...>
 ```
 
