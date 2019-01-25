@@ -1,3 +1,7 @@
+<p align="center"> 
+   <img src="res/portugal.png">
+</p>
+
 # sitios.yaml
 
 Este repositório é sobretudo destinado a dar a conhecer aos residentes de
