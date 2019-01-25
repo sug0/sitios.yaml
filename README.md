@@ -9,14 +9,10 @@ Nada de merdices para turistas.
 O ficheiro `sitios.yaml` é naturalmente onde se encontra toda a informação
 sobre os sítios em questão. Contribuir é um processo relativamente simples:
 
-1. Devem clonar este repositório
+1. Criam um *fork* deste repositório
 
-```
-$ git clone https://github.com/sugoiuguu/sitios.yaml.git
-```
-
-2. Fazem as alterações necessárias ao ficheiro, que apresenta o formato
-   geral
+2. Fazem as alterações necessárias ao ficheiro (pode ser feito a partir
+   do próprio github), que apresenta o formato geral:
 
 ```yaml
 - <cidade>:
@@ -53,6 +49,8 @@ $ git clone https://github.com/sugoiuguu/sitios.yaml.git
         <...>
 ```
 
-3. Criam umm *pull request*
+3. Criam um *pull request*
+
 4. ???
+
 5. E já está
