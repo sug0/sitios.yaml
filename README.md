@@ -1,5 +1,5 @@
 <p align="center"> 
-   <img src="res/portugal.png">
+   <img src="res/portugal.png" width=300>
 </p>
 
 # sitios.yaml
