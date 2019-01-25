@@ -16,7 +16,7 @@
                 têm preços relativamente acessíveis, 2.20€ por um
                 lanche mais bebida; começam a servi-los quentes (se
                 tiveres sorte) a partir do meio dia.
-        ########################################################################
+        #-----------------------------------------------------------------------
         - sitio:
             nome: Piolho
             tags:
@@ -30,7 +30,7 @@
                 Vens aqui aos baldes. Mai nada. Preços andam à volta dos 2€.
             ver_ainda:
                 - Espaço 77
-        ########################################################################
+        #-----------------------------------------------------------------------
         - sitio:
             nome: Espaço 77
             tags:
@@ -47,7 +47,7 @@
                 Real sitio para mandar umas setas ou jogar aos matraquilhos já
                 depois de estar com uns copos. Podes pedir um fino, mas vai-te
                 sair caro.
-    ############################################################################
+    #***************************************************************************
     - matosinhos:
         - sitio:
             nome: Perafita
@@ -63,7 +63,7 @@
                 Faz-te bem à saúde.
             ver_ainda:
                 - Isaac Café Snack Bar
-        ########################################################################
+        #-----------------------------------------------------------------------
         - sitio:
             nome: Isaac Café Snack Bar
             tags:
