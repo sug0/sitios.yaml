@@ -1,2 +1,58 @@
 # sitios.yaml
-Coletânia de sítios que os residentes de Portugal devem visitar
+
+Este repositório é sobretudo destinado a dar a conhecer aos residentes de
+Portugal um conjunto de sítios *sobretudo destinados aos residentes de Portugal*...
+Nada de merdices para turistas.
+
+# Contribuir
+
+O ficheiro `sitios.yaml` é naturalmente onde se encontra toda a informação
+sobre os sítios em questão. Contribuir é um processo relativamente simples:
+
+1. Devem clonar este repositório
+
+```
+$ git clone https://github.com/sugoiuguu/sitios.yaml.git
+```
+
+2. Fazem as alterações necessárias ao ficheiro, que apresenta o formato
+   geral
+
+```yaml
+- <cidade>:
+    <conselho ou localidade>:
+        - sitio:
+            nome: <nome do sitio>
+            tags:
+                - <uma tag>
+                - <outra tag
+                - <...>
+            local: <morada ou coordenadas>
+            rating: <rating de 0 a 10 que das ao sitio>
+            comentario: >
+                <texto interessante sobre o local>
+        #-----------------------------------------------------------------------
+        - sitio:
+            <...>
+        #-----------------------------------------------------------------------
+        - sitio:
+            <...>
+    #***************************************************************************
+    <outro conselho ou localidade>:
+        - sitio:
+            <...>
+        #-----------------------------------------------------------------------
+        - sitio:
+            <...>
+        #-----------------------------------------------------------------------
+        - sitio:
+            <...>
+################################################################################
+- <outra cidade>:
+    <conselho ou localidade>:
+        <...>
+```
+
+3. Criam umm *pull request*
+4. ???
+5. E já está
