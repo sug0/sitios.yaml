@@ -16,7 +16,7 @@ sobre os sítios em questão. Contribuir é um processo relativamente simples:
 
 ```yaml
 - <distrito>:
-    - <conselho ou localidade>:
+    - <concelho ou localidade>:
         - sitio:
             nome: <nome do sitio>
             tags:
@@ -34,7 +34,7 @@ sobre os sítios em questão. Contribuir é um processo relativamente simples:
         - sitio:
             <...>
     #***************************************************************************
-    - <outro conselho ou localidade>:
+    - <outro concelho ou localidade>:
         - sitio:
             <...>
         #-----------------------------------------------------------------------
@@ -45,7 +45,7 @@ sobre os sítios em questão. Contribuir é um processo relativamente simples:
             <...>
 ################################################################################
 - <outro distrito>:
-    - <conselho ou localidade>:
+    - <concelho ou localidade>:
         <...>
 ```
 
