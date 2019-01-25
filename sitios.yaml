@@ -1,0 +1,84 @@
+# sistema de rating é de 0 a 10 estrelas
+
+- porto:
+    - porto:
+        - sitio:
+            nome: Alicantina
+            tags:
+                - comidas
+                - bebidas
+                - universitario
+            local: Rua do Campo Alegre 814, 4150-177 Porto
+            rating: 6.5
+            comentario: >
+                Vem aqui se estiveres com poucos fundos na carteira.
+                De resto, evita esta merda sinceramente... Ao menos
+                têm preços relativamente acessíveis, 2.20€ por um
+                lanche mais bebida; começam a servi-los quentes (se
+                tiveres sorte) a partir do meio dia.
+        ########################################################################
+        - sitio:
+            nome: Piolho
+            tags:
+                - moca
+                - noite
+                - bebidas
+                - baldes
+            local: Praça de Parada Leitão, 4050-064 Porto
+            rating: 7.0
+            comentario: >
+                Vens aqui aos baldes. Mai nada. Preços andam à volta dos 2€.
+            ver_ainda:
+                - Espaço 77
+        ########################################################################
+        - sitio:
+            nome: Espaço 77
+            tags:
+                - moca
+                - noite
+                - bebidas
+                - jogos
+                - matraquilhos
+                - setas
+                - dardos
+            local: Tv. de Cedofeita 22, 4050-183 Porto
+            rating: 7.0
+            comentario: >
+                Real sitio para mandar umas setas ou jogar aos matraquilhos já
+                depois de estar com uns copos. Podes pedir um fino, mas vai-te
+                sair caro.
+    ############################################################################
+    - matosinhos:
+        - sitio:
+            nome: Perafita
+            tags:
+                - moca
+                - noite
+                - mato
+            local: Perafita, Porto, Portugal
+            rating: 8.5
+            comentario: >
+                Fuma aqui um valente pavão. Anda pelas ruas à noite,
+                de preferência com o ar fresquinho de inverno...
+                Faz-te bem à saúde.
+            ver_ainda:
+                - Isaac Café Snack Bar
+        ########################################################################
+        - sitio:
+            nome: Isaac Café Snack Bar
+            tags:
+                - moca
+                - noite
+                - comidas
+                - bebidas
+                - kebabs
+                - hamburguers
+                - fast food
+            rating: 7.5
+            comentario: >
+                Tipo de spot onde vais mamar um valente kebab depois do real
+                pavão. Vale a pena.
+            ver_ainda:
+                - Perafita
+################################################################################
+- lisboa:
