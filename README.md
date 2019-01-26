@@ -19,7 +19,7 @@ sobre os sítios em questão. Contribuir é um processo relativamente simples:
    do próprio github), que apresenta o formato geral:
 
 ```yaml
-- <distrito>:
+- <distrito ou região>:
     - <concelho ou localidade>:
         - sitio:
             nome: <nome do sitio>
@@ -48,7 +48,7 @@ sobre os sítios em questão. Contribuir é um processo relativamente simples:
         - sitio:
             <...>
 ################################################################################
-- <outro distrito>:
+- <outro distrito ou região>:
     - <concelho ou localidade>:
         <...>
 ```
